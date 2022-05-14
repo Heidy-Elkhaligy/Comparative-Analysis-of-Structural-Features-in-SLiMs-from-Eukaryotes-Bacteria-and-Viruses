@@ -10,11 +10,11 @@
 -------------------------
 The ELM instances and FASTA files were downloaded on October 10, 2021
 
-***4 Jupyter notebooks*** are included and are numbered in the order they should be run.
+***5 Jupyter notebooks*** are included and are numbered in the order they should be run.
 - Please don't run the whole notebook at once as some steps might need you to do something outside the notebook, and carefully read and follow the instructions.
 
 - Please make sure that you are in the main directory that contain the Jupyter notebooks before you start running the cells, and run the cells in the listed order as each step depends on the results from the previous cell. 
 
 
- 
+***Note*** The eukaryotes disorder and netsurfp output are not added to this repository. If you want to get access to this data, please email the authors of the paper. 
 
