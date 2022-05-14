@@ -16,5 +16,5 @@ The ELM instances and FASTA files were downloaded on October 10, 2021
 - Please make sure that you are in the main directory that contain the Jupyter notebooks before you start running the cells, and run the cells in the listed order as each step depends on the results from the previous cell. 
 
 
-***Note*** The eukaryotes disorder and netsurfp output are not added to this repository. If you want to get access to this data, please email the authors of the paper. 
+***Note*** The eukaryotes disorder and netsurfp output are not added to this repository. If you want to get access to this data, you can run the analysis locally and follow the instructions in the corresponding README.ms file in each prediction folder or you can email the authors of the paper to send you the files to have the complete files before running the analysis. 
 
