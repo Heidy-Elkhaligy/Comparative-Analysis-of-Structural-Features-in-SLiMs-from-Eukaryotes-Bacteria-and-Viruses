@@ -8,7 +8,7 @@
 
 ## It contains 2 main files:
 -------------------------
-The ELM instances and FASTA files were downloaded on October 10, 2021
+The ELM instances and FASTA files were downloaded on October 25th, 2021
 
 ***5 Jupyter notebooks*** are included and are numbered in the order they should be run.
 - Please don't run the whole notebook at once as some steps might need you to do something outside the notebook, and carefully read and follow the instructions.
